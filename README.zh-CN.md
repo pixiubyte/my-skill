@@ -1,5 +1,7 @@
 # My Skills
 
+[English Version](./README.md)
+
 面向 Claude Code、Codex CLI、Cursor 等 AI 编程助手的技能集合。
 
 ## 技能列表

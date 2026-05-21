@@ -1,5 +1,7 @@
 # My Skills
 
+[中文版本](./README.zh-CN.md)
+
 A collection of AI coding skills and utilities for Claude Code, Codex CLI, Cursor, and other AI coding agents.
 
 ## Skills
